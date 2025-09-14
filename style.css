@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+th, td {
+    border: 1px solid #2F5597;
+    padding: 8px;
+}
+.color-blue {
+    background-color: #2F5597;
+    color: white;
+}
+.color-red {
+    background-color: #FF6666;
+}
+.color-yellow {
+    background-color: #FFD966;
+}
+.color-green {
+    background-color: #A9D08E;
+}
+.number {
+    color: #063586;
+}
